@@ -1,0 +1,26 @@
+{
+  "name": "my-javascript-node-practice-place",
+  "version": "1.0.0",
+  "description": "My JavaScript Node Practice Place",
+  "main": "practice.js",
+  "scripts": {
+    "start": "tsc index.ts && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiggC/JavaScript.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Sirgourny Crosby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SiggC/JavaScript/issues"
+  },
+  "homepage": "https://github.com/SiggC/JavaScript#readme",
+  "dependencies": {
+    "javascript": "^1.0.0",
+    "typescript": "^4.7.4"
+  }
+}
